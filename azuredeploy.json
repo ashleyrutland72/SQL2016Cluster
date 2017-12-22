@@ -110,7 +110,7 @@
       "metadata": {
         "description": "Location of resources that the script is dependent on such as linked templates and DSC modules"
       },
-      "defaultValue": "https://raw.githubusercontent.com/albertwo1978/sql-server-2016-alwayson-existing-vnet-and-ad/master"
+      "defaultValue": "https://raw.githubusercontent.com/ashleyrutland72/SQL2016Cluster/master"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
